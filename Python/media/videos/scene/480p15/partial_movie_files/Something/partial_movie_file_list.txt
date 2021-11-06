@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/voxol/Git/voxCode/Python/media/videos/scene/480p15/partial_movie_files/Something/3163782288_971552864_1904605041.mp4'
+file 'file:/home/voxol/Git/voxCode/Python/media/videos/scene/480p15/partial_movie_files/Something/2201830969_1152718458_3056276105.mp4'
+file 'file:/home/voxol/Git/voxCode/Python/media/videos/scene/480p15/partial_movie_files/Something/2201830969_2624791278_1538260247.mp4'
+file 'file:/home/voxol/Git/voxCode/Python/media/videos/scene/480p15/partial_movie_files/Something/2201830969_1152718458_233820964.mp4'
