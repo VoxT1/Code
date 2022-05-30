@@ -1,2 +1,2 @@
-#+TITLE: Voxol's Code
-#+AUTHOR:Vox
+#+title: Vox's Code
+#+author: Vox
